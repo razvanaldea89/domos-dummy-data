@@ -40,7 +40,7 @@ function add_dlm_dummy_data() {
 				'downloads' => rand( 1, 99999 ),
 			);
 		}
-
+// Something else in the main i do not want in the test branch.
 		$table = "{$wpdb->dlm_reports}";
 
 		$sql_check  = "SELECT * FROM $table  WHERE date = %s;";
