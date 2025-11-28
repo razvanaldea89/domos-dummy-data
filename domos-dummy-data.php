@@ -22,7 +22,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * displayDates() is a function, used by the above two functions, that manipulates the dates that we need to set into the tables of our database. This function does not need a calling.
  */
 function add_dlm_dummy_data() {
-	// something to test again.
+	// main branch change.
 	global $wpdb;
 	$dlms  = get_posts(
 		array(
