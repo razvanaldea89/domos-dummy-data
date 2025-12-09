@@ -10,6 +10,7 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
+
 // Another comment
 
 /**
