@@ -10,7 +10,7 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
-
+// Another comment
 
 /**
  * These are the dummy data populating functions.
