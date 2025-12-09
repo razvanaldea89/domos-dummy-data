@@ -10,7 +10,9 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
-// What a comment - development branch - again
+
+// Comment from branch-from-main - again
+
 
 /**
  * These are the dummy data populating functions.
